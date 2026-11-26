@@ -1,5 +1,11 @@
 # A187175：左旋骑士的五格路径
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a187175/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 [OEIS A187175](https://oeis.org/A187175) 把路径的五个落点标成 1 至 5，因此它的“5-step”是**五个互不相同的格子、四次移动**，不是走五次或回到起点的闭合巡游。坐标轴取向固定后，允许的四个位移为
 $$
 (2,1),\quad(-1,2),\quad(-2,-1),\quad(1,-2).

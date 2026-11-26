@@ -1,5 +1,9 @@
 # 左旋骑士的五格路径（A187175）
 
+**证明署名：** Chain.Ren · 独立研究 · [完整证明](PROOF.md) · 版本日期：2026-11-26
+
+[固定版本证明](https://github.com/Asakitan/oeis-a187175/blob/proof-v1.0.0/PROOF.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/oeis-a187175/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+
 证明了 OEIS 所列生成函数和大棋盘上的二次计数式。
 
 [OEIS 原条目](https://oeis.org/A187175) · [完整证明](PROOF.md) · [MIT 许可证](LICENSE)
