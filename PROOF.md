@@ -2,9 +2,9 @@
 
 **署名：** Chain.Ren · 独立研究
 
-**版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a187175/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+**版本：** [proof-v1.0.1](https://github.com/Asakitan/oeis-a187175/releases/tag/proof-v1.0.1) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
 
-本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，未经同行评审。
 
 [OEIS A187175](https://oeis.org/A187175) 把路径的五个落点标成 1 至 5，因此它的“5-step”是**五个互不相同的格子、四次移动**，不是走五次或回到起点的闭合巡游。坐标轴取向固定后，允许的四个位移为
 $$
@@ -44,4 +44,4 @@ $$
 $$
 G(z)=\frac{4z^5(2-z)(2+12z+18z^2+15z^3+3z^4)}{(1-z)^3},
 $$
-即 Colin Barker 在条目中给出的猜想。R. H. Hardin 给出原计数题。本项目不主张最早提出公式或最早证明。
+即 Colin Barker 在条目中给出的猜想。R. H. Hardin 给出原计数题。

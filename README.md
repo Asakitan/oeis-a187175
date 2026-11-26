@@ -2,7 +2,7 @@
 
 **证明署名：** Chain.Ren · 独立研究 · [完整证明](PROOF.md) · 版本日期：2026-11-26
 
-[固定版本证明](https://github.com/Asakitan/oeis-a187175/blob/proof-v1.0.0/PROOF.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/oeis-a187175/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+[固定版本证明](https://github.com/Asakitan/oeis-a187175/blob/proof-v1.0.1/PROOF.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/oeis-a187175/releases/tag/proof-v1.0.1) · [引用信息](CITATION.cff)
 
 证明了 OEIS 所列生成函数和大棋盘上的二次计数式。
 
@@ -17,5 +17,3 @@ python -B verify.py
 ~~~
 
 精确枚举 256 种步法；100 种不重复落点，再按包围盒计算每种步法在任意棋盘上的平移数。
-
-本工作给出可复核证明，不主张最早提出公式或全球首证。
